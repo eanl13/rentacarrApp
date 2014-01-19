@@ -1,3 +1,3 @@
 rentacarrApp
 ============
-Eğitime ilk basladığım uygulama.
+Eğitime ilk basladığım uygulama. Dop.
