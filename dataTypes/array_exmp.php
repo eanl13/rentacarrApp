@@ -18,6 +18,9 @@ else
   {
   echo "Match not found";
   }
+  
+  //@link http://tr2.php.net/array_intersect
+  //@link http://www.techrepublic.com/article/17-useful-functions-for-manipulating-arrays-in-php/
 /* 
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
